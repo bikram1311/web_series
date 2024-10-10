@@ -1,0 +1,4 @@
+apple
+nothing
+xiaomi
+pixel
